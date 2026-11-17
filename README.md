@@ -1,5 +1,5 @@
 # Ex. No: 6 Identifying MAC and IP Addresses Using Packet Tracer
-# Date:
+# Date:17-11-2026
 ________________________________________
 # Objective
 To use Cisco Packet Tracer simulation mode to capture and analyze MAC and IP address information for both local and remote network communication.
@@ -48,9 +48,9 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 172.16.31.2	00D0:D311:C788	000C:85CC:1DA7	172.16.31.2	172.16.31.5<br>
 ________________________________________
 # Output (Screenshots)
-•	PDU details for local communication<br>
-•	PDU details for remote communication<br>
-•	Tables showing MAC/IP changes through each device<br>
+<img width="1600" height="1000" alt="WhatsApp Image 2026-11-17 at 3 49 55 PM" src="https://github.com/user-attachments/assets/8d132a8c-1fb5-4207-8948-3ca95384ed10" />
+<img width="1600" height="1000" alt="WhatsApp Image 2026-11-17 at 3 49 55 PM (1)" src="https://github.com/user-attachments/assets/4fc295d0-f30c-4cdd-90b9-4837e8f17599" />
+
 ________________________________________
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
